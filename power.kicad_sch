@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ba51c6a8-977b-4955-9e3c-b252435e2a51")
+	(paper "A4")
+	(title_block
+		(title "Power")
+	)
+	(lib_symbols)
+)
