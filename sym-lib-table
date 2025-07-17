@@ -3,4 +3,6 @@
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/symbols/RP2040.kicad_sym")(options "")(descr ""))
   (lib (name "BQ24074RGTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/BQ24074RGTR.kicad_sym")(options "")(descr ""))
   (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/symbols/Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ20-C-H-G-MSMT-3-P16-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols/UJ20-C-H-G-MSMT-3-P16-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ20-C-H-G-MSMT-6-P16-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols/UJ20-C-H-G-MSMT-6-P16-TR.kicad_sym")(options "")(descr ""))
 )

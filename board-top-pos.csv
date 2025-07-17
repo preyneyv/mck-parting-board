@@ -1,0 +1,5 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+"J2","Battery","JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical",42.900001,-22.250000,0.000000,top
+"J4","Speaker","PinHeader_1x02_P2.54mm_Vertical",42.625000,-37.200000,90.000000,top
+"SW1","Button L","SW_Hotswap_Kailh_MX_Plated",29.700000,-29.700000,180.000000,top
+"SW2","Button R","SW_Hotswap_Kailh_MX_Plated",96.300000,-29.700000,180.000000,top
