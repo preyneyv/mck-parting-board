@@ -116,10 +116,6 @@
           ""
         ],
         [
-          "hole_clearance|24620001|29700000|2bcc91d9-c056-4773-ae93-6e6e784a083a|32dd262f-ec63-4690-93f1-51b92322db0c",
-          ""
-        ],
-        [
           "hole_clearance|74715001|20650000|e8d16c9f-4c08-434e-bc3f-0811d532b823|1b616531-e36e-424f-8c02-5c7de080cd57",
           ""
         ],
@@ -129,6 +125,106 @@
         ],
         [
           "hole_clearance|91220001|29700000|513cb6d6-7d5b-4e57-8f16-ba756ddbf86e|299176d0-8f61-4672-b1b2-ab8536734b33",
+          ""
+        ],
+        [
+          "solder_mask_bridge|51139100|28950000|59e68975-cc26-47ab-a839-f32f2498d384|41c0ec90-122c-4bf7-98dc-68bd65dfc49e",
+          ""
+        ],
+        [
+          "solder_mask_bridge|51537500|28950000|59e68975-cc26-47ab-a839-f32f2498d384|2b52cc62-ccaa-4774-a5ee-3d10539db06d",
+          ""
+        ],
+        [
+          "solder_mask_bridge|51935900|28950000|59e68975-cc26-47ab-a839-f32f2498d384|69b5d1fb-37b1-49a3-8ea8-9af4ab4c0915",
+          ""
+        ],
+        [
+          "solder_mask_bridge|60100000|27000000|98e6adc3-9e7d-4f80-a9b1-48613f8fc341|b7e3801b-6ef5-475b-a6ea-0071158a2d96",
+          ""
+        ],
+        [
+          "solder_mask_bridge|60900000|27000000|b7e3801b-6ef5-475b-a6ea-0071158a2d96|9d7b5fe7-a2e0-40a7-9066-af16014c0a23",
+          ""
+        ],
+        [
+          "solder_mask_bridge|61600000|27000000|36203c7f-2349-4ddb-a851-1c0fe1bbb233|9d7b5fe7-a2e0-40a7-9066-af16014c0a23",
+          ""
+        ],
+        [
+          "solder_mask_bridge|61900000|27000000|36203c7f-2349-4ddb-a851-1c0fe1bbb233|0b4fe2de-2774-4a73-a80f-a88f67160218",
+          ""
+        ],
+        [
+          "solder_mask_bridge|62600000|27000000|9985f312-3ade-4918-802f-fe90431aa02a|0b4fe2de-2774-4a73-a80f-a88f67160218",
+          ""
+        ],
+        [
+          "solder_mask_bridge|62900000|27000000|9985f312-3ade-4918-802f-fe90431aa02a|e67aebf5-67f4-4edb-92eb-4ff665188958",
+          ""
+        ],
+        [
+          "solder_mask_bridge|63400000|27000000|e67aebf5-67f4-4edb-92eb-4ff665188958|62b81886-6c6c-460b-94e4-25af66f530bf",
+          ""
+        ],
+        [
+          "solder_mask_bridge|64100000|27000000|36a634f9-2e24-4194-92ab-2b9d838325bf|62b81886-6c6c-460b-94e4-25af66f530bf",
+          ""
+        ],
+        [
+          "solder_mask_bridge|64400000|27000000|36a634f9-2e24-4194-92ab-2b9d838325bf|3249e568-ada7-458d-a068-f99594f8ddaa",
+          ""
+        ],
+        [
+          "solder_mask_bridge|65100000|27000000|018b7672-2cb3-4ec5-8656-5dbb3b923be4|3249e568-ada7-458d-a068-f99594f8ddaa",
+          ""
+        ],
+        [
+          "solder_mask_bridge|65900000|27000000|f4fed285-0ab1-4bee-a45a-4ae353be3c3f|018b7672-2cb3-4ec5-8656-5dbb3b923be4",
+          ""
+        ],
+        [
+          "starved_thermal|52187500|21912500|06c3a9b4-4855-4bf7-aafe-d4e996547758|f5d113ff-1041-4a0c-bf44-78899f45edb8|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|54299997|26275000|06c3a9b4-4855-4bf7-aafe-d4e996547758|b5db1832-eb0e-4b50-aa55-37fc58f9d7c1|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|54300000|21774999|06c3a9b4-4855-4bf7-aafe-d4e996547758|ac8bb159-ebf5-4538-bb13-2ed3de3b734c|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|57050000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|244b0879-abe1-469a-b5af-31b083a7a90e|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|57050000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|244b0879-abe1-469a-b5af-31b083a7a90e|In2.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|59480000|27750000|06c3a9b4-4855-4bf7-aafe-d4e996547758|505ee7d5-3b55-4a04-8ca7-21fac448563c|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|61276427|36887786|06c3a9b4-4855-4bf7-aafe-d4e996547758|4770c048-2e7b-49cc-b6d2-b1ede5cc68cc|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|68950000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|c766c354-5260-4fe9-9137-e24437eccc60|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|68950000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|c766c354-5260-4fe9-9137-e24437eccc60|In2.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|71245000|33687500|06c3a9b4-4855-4bf7-aafe-d4e996547758|21df3595-eccc-4192-ad30-a9f006d3fc9e|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|78500000|29930000|06c3a9b4-4855-4bf7-aafe-d4e996547758|70e09fe3-3b82-4b87-b3c3-82b355397cbe|B.Cu",
           ""
         ]
       ],
@@ -753,6 +849,12 @@
           "group_by": false,
           "label": "DigiKey",
           "name": "DigiKey",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey",
+          "name": "Digikey",
           "show": false
         }
       ],
