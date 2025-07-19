@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.1
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -116,18 +116,6 @@
           ""
         ],
         [
-          "hole_clearance|74715001|20650000|e8d16c9f-4c08-434e-bc3f-0811d532b823|1b616531-e36e-424f-8c02-5c7de080cd57",
-          ""
-        ],
-        [
-          "hole_clearance|78184999|20650000|4e82fbdc-d542-4587-b923-dda47e4f98c0|8fa53094-dbf7-4e0d-bdbd-0a2640116900",
-          ""
-        ],
-        [
-          "hole_clearance|91220001|29700000|513cb6d6-7d5b-4e57-8f16-ba756ddbf86e|299176d0-8f61-4672-b1b2-ab8536734b33",
-          ""
-        ],
-        [
           "solder_mask_bridge|51139100|28950000|59e68975-cc26-47ab-a839-f32f2498d384|41c0ec90-122c-4bf7-98dc-68bd65dfc49e",
           ""
         ],
@@ -189,34 +177,6 @@
         ],
         [
           "starved_thermal|54299997|26275000|06c3a9b4-4855-4bf7-aafe-d4e996547758|b5db1832-eb0e-4b50-aa55-37fc58f9d7c1|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|54300000|21774999|06c3a9b4-4855-4bf7-aafe-d4e996547758|ac8bb159-ebf5-4538-bb13-2ed3de3b734c|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|57050000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|244b0879-abe1-469a-b5af-31b083a7a90e|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|57050000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|244b0879-abe1-469a-b5af-31b083a7a90e|In2.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|59480000|27750000|06c3a9b4-4855-4bf7-aafe-d4e996547758|505ee7d5-3b55-4a04-8ca7-21fac448563c|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|61276427|36887786|06c3a9b4-4855-4bf7-aafe-d4e996547758|4770c048-2e7b-49cc-b6d2-b1ede5cc68cc|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|68950000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|c766c354-5260-4fe9-9137-e24437eccc60|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|68950000|21800000|06c3a9b4-4855-4bf7-aafe-d4e996547758|c766c354-5260-4fe9-9137-e24437eccc60|In2.Cu",
           ""
         ],
         [
