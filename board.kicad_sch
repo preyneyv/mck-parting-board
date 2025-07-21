@@ -49268,6 +49268,15 @@
 				)
 			)
 		)
+		(property "DigiKey" "455-1704-ND"
+			(at 72.39 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a68b8de1-189d-4239-839b-ca15b0c025eb")
 		)
@@ -56292,7 +56301,16 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-B2B-ZR-ND"
+		(property "Digikey" ""
+			(at 276.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "455-B2B-ZR-ND"
 			(at 276.86 81.28 0)
 			(effects
 				(font
